@@ -1,1 +1,8 @@
-print('Hello, World!')
+s
+jkp
+
+q
+:q
+
+
+:q
